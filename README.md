@@ -9,7 +9,7 @@ Gist About me
 - 👯 I’m looking to collaborate with other content creators
 - 📬 How to reach me: <a href="mailto:tanishmohanty403@gmail.com">Let's get in touch!</a>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
