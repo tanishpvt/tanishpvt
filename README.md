@@ -33,3 +33,6 @@ I strongly belive we the professionals of tech industry need to learn and innova
 Happy coding 💻  !!
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanishpvt&show_icons=true&hide_border=true" />
+
+<img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpvt" />
+
