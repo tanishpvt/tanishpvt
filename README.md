@@ -36,3 +36,5 @@ Happy coding 💻  !!
 
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpvt" />
 
+![](https://komarev.com/ghpvc/?username=tanishpvt)
+
