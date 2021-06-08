@@ -4,6 +4,7 @@
 https://user-images.githubusercontent.com/66123919/121221643-65ea2400-c8a3-11eb-9f24-d06fec6867f8.mp4
 
 
+
  📬 How to reach me (E mail) : <a href="mailto:tanishmohanty403@gmail.com">Let's get in touch!</a>
 <!-- 
 ### Connect with me:
@@ -17,11 +18,11 @@ https://user-images.githubusercontent.com/66123919/121221643-65ea2400-c8a3-11eb-
 <br /> -->
 
 <!-- I strongly belive we the professionals of tech industry need to learn and innovate.<br/> There is constant change in the technologies in the tech market where we need to update ourselves with.<br/>  The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer.<br/>  I like front-end and back-end development.<br/>  I love trying out new technologies and update with modern tools helping our lives more easier. -->
-
+<!-- 
 Happy coding 💻  !!
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanishpvt&show_icons=true&hide_border=true" />
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpvt" />
-
+ -->
 
 
