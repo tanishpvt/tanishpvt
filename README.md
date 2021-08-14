@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tanishpvt)
+<!-- ![](https://komarev.com/ghpvc/?username=tanishpvt) -->
 # Have a Look on my work  🤩 
 
 https://user-images.githubusercontent.com/66123919/121221643-65ea2400-c8a3-11eb-9f24-d06fec6867f8.mp4
@@ -6,6 +6,22 @@ https://user-images.githubusercontent.com/66123919/121221643-65ea2400-c8a3-11eb-
 
 
  📬 How to reach me (E mail) : <a href="mailto:tanishmohanty403@gmail.com">Let's get in touch!</a>
+ 
+<!-- Contribution Streak  -->
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
+  <a href="https://github.com/avinashbest/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishpvt&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>  </br>
+
+<br>
+ 
+ 
+ <p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
+</br>
+ 
 <!-- 
 ### Connect with me:
 
