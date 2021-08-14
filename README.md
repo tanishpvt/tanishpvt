@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/66123919/121221643-65ea2400-c8a3-11eb-
  
  
  <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hrishikeshnikam2000}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tanishpvt}/count.svg" /></p> 
 </br>
  
 <!-- 
